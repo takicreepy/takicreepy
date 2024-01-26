@@ -1,0 +1,127 @@
+/*1343621084,169776320*/
+
+.fbContextualHelp .columnHeader{font-size:11px}
+.fbContextualHelp .messageContainer{background-color:#eceff5;border-color:#9daccb;font-size:13px;height:130px;padding-top:8px}
+.atwWidget:hover .fbProfileNavHeaderEditButton{display:block}
+.atwWidget .fbProfileNavHeaderEditButton{display:none}
+.atwWidget .fbProfileNavHeaderEditButton{position:relative;top:-2px;margin-bottom:-7px}
+.pagesElsewhere:hover{background-color:#eff2f7;text-decoration:none}
+.pagesElsewhere:hover .pagesElsewhereReportBtn{visibility:visible}
+.pagesElsewhere .pagesElsewhereReportBtn{visibility:hidden}
+.pagesElsewhere{padding:3px 2px 3px 7px}
+.pagesElsewhere a{color:#333;text-decoration:none}
+.blankMediaRow .blankMediaPortrait{line-height:14px;padding:0;text-align:center;width:75px}
+.blankMediaRow .blankMediaIcon{text-align:left}
+.blankMediaRow .blankMediaLoadingIndicator{position:relative;top:-90px}
+.mediaRow .profilePicContainer{height:100px;position:relative}
+.mediaRow .likeButtonContainer{left:-50px;position:absolute;text-align:center;top:41%;width:200px}
+.mediaRow .blackBackground{background-color:#333;height:100px;left:0;position:absolute;text-align:center;top:0;width:100px}
+.mediaRow .profilePicContainer .photo{height:100px;position:absolute}
+.mediaRow .profilePicContainer:hover .photo{opacity:.6}
+.mediaRow .profilePicContainer .likeButtonContainer{display:none}
+.mediaRow .profilePicContainer:hover .likeButtonContainer{display:block}
+.fbTimelineLogLoadingIndicator{display:none}
+.async_saving .fbTimelineLogLoadingIndicator{display:block}
+.fbTimelineLogFavHeader{border-bottom:1px solid #ccc}
+.fbTimelineLogTimeNav{font-size:12px}
+.fbTimelineLogTimeNav .fbTimelineLogSelectedTime{font-size:13px;color:#333;font-weight:bold}
+.async_saving .fbTimelineLogYear .uiMorePagerLoader{display:none}
+.async_saving .fbTimelineLogYear .uiMorePager,
+.async_saving .fbTimelineLogYear .uiMorePagerPrimary{display:block}
+.allFavorites .uiInfoTable{left:-5px;position:relative;width:738px}
+.allFavorites #fbTimelineEditFavoritesContent .uiInfoTable{left:0;width:849px}
+.allFavorites .uiInfoTable .labelContainer{margin:6px 12px 6px 16px;width:90px}
+.allFavorites .uiInfoTable th.label{width:110px}
+.timelineLayoutLoggedOutProfile .allFavorites .uiInfoTable th.label{width:110px}
+.allFavorites .mediaRow .mediaPortrait{line-height:14px;margin-right:3px;overflow:hidden;width:100px}
+.allFavorites .mediaRow .mediaPortrait .photo{height:100px;margin-bottom:1px}
+.allFavorites .mediaRow .mediaPortrait .mediaPageName, .allFavorites .mediaRowRevealer .seemore{height:28px;margin:5px 0 10px;overflow:hidden;word-wrap:break-word}
+.allFavorites .mediaRowWrapper{position:relative;text-align:center}
+.allFavorites .mediaRowWrapper .uiList{padding-bottom:0}
+.timelineFavorites .allFavorites .blankMediaRow .blankMediaPortrait{height:110px}
+.allFavorites .mediaRowRevealer{bottom:28px;height:110px;overflow:visible;position:absolute;right:-111px;top:0;width:100px}
+.allFavorites .pagesFavorites{overflow:hidden}
+.allFavorites .pagesFavorites .mediaRowRevealer{bottom:33px;right:-59px;top:auto}
+.allFavorites .pagesFavorites tr .mediaRowRevealer{right:-104px}
+.allFavorites .mediaRowRevealer .seemore{text-align:left}
+.allFavorites .mediaRowRevealer .seemore .detail{height:100px}
+.allFavorites .mediaRowRevealer .seemore .title{padding-top:5px}
+.fbTimelineMoreButton:hover .title{text-decoration:underline}
+.allFavorites .showOtherMasher a{padding:0 0 20px}
+.allFavorites .showOtherMasher:hover{background:0;text-decoration:underline}
+.allFavorites .profileEditButton{opacity:1}
+.allFavorites .timelineFavorites .uiHeader{margin-left:14px}
+.allFavorites .timelineLikeStream .uiHeader{margin:5px 0 15px}
+.timelineLikeStream .fbTimelineLogFavHeader{margin-bottom:5px;padding-bottom:10px}
+.fbTimelineLoggedOutTopSection #fbProfileCover .coverNoImage{height:172px;position:relative}
+.fbTimelineLoggedOutTopSection #fbProfileCover .coverImage{margin-top:1px}
+.fbTimelineLoggedOutTopSection #fbTimelineHeadline{min-height:60px}
+.timelineLoggedOutMain{width:519px}
+.timelineLoggedOutMain .profileInfoTable{margin:10px 17px 20px 17px;width:auto}
+.timelineLoggedOutMain .profileText{margin-bottom:20px;margin-left:25px;margin-right:15px}
+.timelineLoggedOutMain .allFavorites{width:517px}
+.timelineLoggedOutMain .allFavorites
+.mediaRow .blackBackground{height:75px;width:75px}
+.timelineLoggedOutMain .allFavorites
+.mediaRow .likeButtonContainer{left:-63px;top:26px}
+.timelineLoggedOutMain .allFavorites
+.mediaRow .mediaPortrait{width:75px}
+.timelineLoggedOutMain .allFavorites
+.mediaRow .mediaPortrait .profilePicContainer{height:75px}
+.timelineLoggedOutMain .allFavorites .profileInfoTable{width:473px}
+.timelineLoggedOutMain .allFavorites .timelineFavorites .uiHeader{margin-left:15px}
+.timelineLoggedOutMain .allFavorites
+.uiInfoTable .labelContainer{background-color:#fff;color:#999;margin:0;padding-left:0;padding-right:10px;padding-top:0;text-align:left}
+.timelineLoggedOutMain .allFavorites
+.profileInfoTable .spacer{border-top:1px solid #d6dae7}
+.timelineLoggedOutRight{width:310px}
+.timelineLoggedOutRight .profileInfoTable{margin:10px 15px 20px;width:auto}
+.timelineLoggedOutRight .profile-friends{margin:10px 10px 20px 10px}
+.timelineLoggedOutRight .profile-friends .profileFriendsText{width:auto}
+.timelineLoggedOutRight .fbTimelineCompactSection .fbTimelineAboutMeHeader{margin-left:15px}
+.timelineLoggedOutRight .fbTimelineAboutMeHeader h3 a{color:#3b5998}
+.timelineLayout .timelineLoggedOutMain .profileInfoTable th.label{padding-right:0;width:auto}
+.timelineLayoutLoggedOut .timelineLoggedOutMain .profileInfoTable th.label{padding-right:0;width:75px}
+.timelineLayoutLoggedOut #pagelet_timeline_main_column{position:relative}
+.timelineLayoutLoggedOut #rightCol,
+.timelineLayoutLoggedOutUserProfile .fbTimelineStickyHeader{display:none}
+.timelineLayoutLoggedOut #globalContainer{width:851px}
+.timelineLayoutLoggedOut .loggedout_menubar_container{min-width:851px}
+.timelineLayoutLoggedOut .loggedout_menubar{width:851px}
+.timelineLayout .timelineLoggedOutSignUp{position:absolute;right:18px;top:18px;min-width:244px;z-index:1}
+.timelineLoggedOutSignUp #pagelet_loggedout_sign_up .uiButton + .uiButton{margin-left:7px}
+.timelineLayoutLoggedOutProfile .fbTimelineStickyHeader{top:0}
+.timelineLayoutLoggedOutProfile .fbTimelineStickyHeaderVisible.fixed_elem{position:static !important}
+.timelineLayout.timelineLayoutLoggedOut #pageFooter{margin:0 -30px;width:auto}
+.fbTimelineAlsoOnBox .alsoOnBoxHeader{border-bottom:1px solid #ddd;padding-bottom:6px}
+.fbTimelineAlsoOnBox .alsoOnSubtitle{display:block;margin-top:2px}
+.fbStreamTimelineGrid{width:100%}
+.fbStreamTimelineFavPicContainer{width:70px}
+.fbStreamTimelineFavInfoContainer .nameText{font-size:14px}
+.fbStreamTimelineFavInfoContainer .subText{color:gray}
+.fbStreamTimelineFavFriendContainer .friendFaces{float:right}
+.fbStreamTimelineFavFriendContainer .friendText{clear:both;float:right}
+.fbStreamTimelineFavFriendContainer{width:50%}
+
+#bootloader_zb7l7 { height: 42px; }
+/*
+     FILE ARCHIVED ON 15:54:13 Aug 02, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:09:09 Jan 02, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 232.582
+  exclusion.robots: 0.076
+  exclusion.robots.policy: 0.07
+  RedisCDXSource: 27.451
+  esindex: 0.009
+  LoadShardBlock: 179.791 (3)
+  PetaboxLoader3.datanode: 213.342 (4)
+  CDXLines.iter: 18.382 (3)
+  load_resource: 116.352
+  PetaboxLoader3.resolve: 57.779
+*/

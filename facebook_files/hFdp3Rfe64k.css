@@ -1,0 +1,252 @@
+/*1343617428,169776065*/
+
+.insightsBar{margin:15px -12px -12px 0}
+.insightsBar .reachStats{display:inline-block;padding:4px 0}
+.insightsBar .promotionUnavailableLink{text-decoration:none;visibility:hidden}
+.insightsBar:hover .promotionUnavailableLink{visibility:visible}
+.threadRow .snippet{max-width:430px;overflow:hidden;position:absolute;text-overflow:ellipsis;white-space:nowrap}
+.threadRow .snippet .indicator, #fbMessagesItemList .snippet .indicator{vertical-align:middle}
+#admin_panel{background:#fff;border:1px solid #c4cde0;border-top:none;margin-bottom:12px;position:relative;width:809px;z-index:5}
+#admin_panel .uiHeaderPage{padding-bottom:6px}
+.admin_panel_loading{text-align:center}
+.admin_panel_loading .img{margin-top:180px}
+#admin_panel .uiHeaderSection{background:#f2f2f2;border-top:1px solid #ccc;border-bottom:1px solid #ccc;padding:5px 10px}
+#admin_panel .uiSideNavCountInline{background-color:#f03d25;border:1px solid #c0311e;color:#fff;font-size:9px;line-height:normal;padding:0 2px}
+.adminPanelModule{display:inline-block;vertical-align:top}
+#admin_panel_body{height:430px;margin-top:10px;overflow:hidden}
+.adminPanelNotifColumn{width:539px}
+.adminPanelNotifColumnWide{width:809px}
+.adminPanelLikesColumn{width:226px}
+.adminPanelInsightsColumn{width:312px}
+.adminPanelMessagesColumn,
+#admin_panel #AdminTip{width:269px}
+.adminPanelBorderRight{border-right:1px solid #ccc}
+.adminPanelContentTall{height:205px}
+.adminPanelContent,
+#admin_panel .AdminTipContent{height:164px}
+.adminPanelBlankStateImage{margin:24px 15px 33px;height:84px;width:84px}
+#admin_panel .AdminTipImageWrap{height:141px;padding-top:24px;width:115px;text-align:center}
+.adminPanelBlankStateText,
+#admin_panel .AdminTipBody{padding:22px 10px 5px 0}
+.adminPanelVisibilityButtonGroup{vertical-align:bottom}
+.adminPanelVisibilityButtonGroup .counter{padding:0 1px;margin-top:3px}
+#admin-panel-insights-graph{padding:4px 4px 0}
+#admin-panel-insights-graph .graph-canvas{width:304px;height:141px;margin:0}
+#admin-panel-insights-graph .graph-legend{position:relative;height:20px}
+#admin-panel-insights-graph:hover{cursor:pointer}
+#admin_panel_messages .adminPanelContent{overflow:hidden}
+.adminPanelList li{cursor:pointer;border-bottom:1px solid #f2f2f2;padding:0}
+.adminPanelList li.jewelItemNew{background:#f1f3f7;border-bottom:1px solid #d8dfea}
+#admin_panel_notifications .notif_x_div, #admin_panel_notifications .confirmingMsg{display:none}
+.adminPanelList li a{color:#333;display:block;padding:4px 5px 4px 10px;text-decoration:none}
+.adminPanelList li a:hover, .adminPanelList li a:active, .adminPanelList li a:focus{background-color:#6d84b4 !important;border-bottom:1px solid #3b5998;border-top:1px solid #3b5998;outline:none;padding-top:3px;padding-bottom:3px;text-decoration:none}
+.adminPanelList .notif_block .img{height:32px;margin-right:8px;width:32px}
+.adminPanelList .author, .adminPanelList .preview, .adminPanelList .info div{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.adminPanelList .author, #admin_panel_notifications .blueName{color:#3b5998;font-weight:bold}
+#admin_panel_messages .subject{color:#333}
+#admin_panel_messages .time, #admin_panel_notifications .timestamp{color:gray;font-size:11px;padding-top:0}
+.adminPanelList a:hover span, .adminPanelList a:active span, .adminPanelList a:focus span, .adminPanelList a:hover div, .adminPanelList a:active div, .adminPanelList a:focus div, .adminPanelList li.selected a, #admin_panel_notifications li.selected .timestamp, #admin_panel_notifications a:hover .timestamp, #admin_panel_notifications a:hover .blueName, #admin_panel_messages a:hover .author, #admin_panel_messages a:hover .preview, #admin_panel_messages a:hover .subject, #admin_panel_messages a:hover .time{color:#fff}
+#admin_panel_messages .snippet{width:210px}
+#admin_panel_messages .snippet .indicator{vertical-align:middle}
+#admin_panel_notifications .info .img{display:none}
+.AdminTipContent{overflow:hidden}
+.AdminTipBody{overflow:hidden}
+.AdminTipImageWrap{display:inline-block;float:left}
+.pagesTimelinePinpost .pagesPinpostImage{position:absolute;right:12px;top:-4px}
+.pagesTimelinePinpost .fbTimelineCurationControl{top:23px}
+.timelinePagesInsightsReport .timelinePagesInsightsDouble .leftPageHead,
+.timelinePagesInsightsReport .timelinePagesInsightsDouble .rightPageHead{width:199px;background-color:#f1f1f1}
+.timelinePagesInsightsReport .timelinePagesInsightsDouble .rightPageCount,
+.timelinePagesInsightsReport .timelinePagesInsightsDouble .rightPageHead{border-left:1px solid #e5e5e5}
+.timelinePagesInsightsTopDouble.timelinePagesInsightsDouble{border-top:none;margin-top:-12px}
+.timelinePagesInsightsDouble{border-top:1px solid #e5e5e5;margin:2px -14px -2px -15px}
+.timelinePagesInsightsDouble table{border-collapse:collapse}
+.timelinePagesInsightsDouble table td{vertical-align:top}
+.timelinePagesInsightsReport .timelinePagesInsightsDouble .pageNumTitle{padding:5px 12px;color:#333}
+.timelinePagesInsightsDouble .bigNumber{margin-left:10px;margin-top:10px}
+.timelinePagesInsightsSingle .bigNumber{margin-left:-5px;margin-bottom:5px}
+.timelinePagesInsightsReport .bigNumber{color:#6278ae;font-family:Helvetica, Arial, sans-serif}
+.timelinePageMostRecentLabel{border-color:#e9e9e9;border-style:solid;border-width:0 0 1px 0;padding-bottom:8px}
+.timelineUnitContainer div.profile-pagelet-section{margin-bottom:0}
+.timelineUnitContainer div.profile-pagelet-section .uiListMedium{border-color:#e9e9e9}
+.pageMostRecentPostList li{margin:0 5px;padding:7px 0 1px 0}
+.timelineUnitContainer .pageMostRecentPostList{margin-bottom:0}
+.pageMostRecentPostList .uiStreamStory .mainWrapper{margin:0;padding-top:0}
+.fbTimelineUnit .pageMostRecentPostList .uiStreamStory .mainWrapper{padding-top:0}
+.pageMostRecentPostList .uiStreamStory .actorPhoto{margin-top:0;margin-bottom:0;padding-top:0}
+.pageMostRecentPostList .pageOneLine .messageBody{overflow:hidden;max-width:300px;text-overflow:ellipsis;white-space:nowrap;display:block}
+.pageMostRecentPostList .storyContent .storyInnerContent{margin-left:45px}
+.pageMostRecentPostList li:hover{background:#edeff4;border-radius:2px;border-top-color:#edeff4;cursor:pointer;margin:0 0 -1px 0;padding:7px 5px 2px 5px;position:relative;z-index:1}
+.pageMostRecentPostList .uiStreamStory .uiStreamHide{margin-top:0;margin-right:15px}
+.pageMostRecentPostList .uiStreamMessage .actorDescription{padding:0}
+.pageMostRecentPostList .uiStreamStory .recentStoryText{margin:2px 0}
+.pageMostRecentPostList .uiStreamStory .tlPageStoryAttachment{margin-bottom:-2px}
+.pageMostRecentPostList .uiBlingBox, .pageMostRecentPostList .uiBlingBox:hover{border-bottom:0}
+.fbTimelineUnit .timelineUnitContainer .pageMostRecentPostList .uiStreamStory .storyInnerContent{margin-left:39px}
+.tlPagesTipsLabel{padding-bottom:8px}
+.tlPagesTipsForm, .tlPagesTipsSection{border-color:#e9e9e9;border-style:solid;border-width:1px 0 0 0}
+.tlPagesTipsForm{padding:5px 0 2px}
+.tlPagesTipsForm .tlPagesTipsText{width:367px;padding:5px;font-size:13px;height:16px}
+.tlPagesTipsForm.expandedTipsForm .tlPagesTipsText{height:30px}
+.tlPagesTipsButton{margin-top:5px;padding-bottom:2px}
+.tlPagesTipsButtonGroup{height:30px}
+.tlPagesTipsList li{margin:0 5px;padding:7px 0 5px 0}
+.tlPagesTipsList .tipsTimelineItem .tipOnelineStory{overflow:hidden;max-width:300px;text-overflow:ellipsis;white-space:nowrap;margin:2px 0}
+.tlPagesTipsList .uiBlingBox:hover, .tlPagesTipsList .uiBlingBox{border-bottom:0}
+.timelineUnitContainer .tlPagesTipsList{margin-bottom:0}
+.timelineUnitContainer .tlPagesTipsList .tlPagesTipsMorePager{border-top:0;padding:0;margin:0}
+.tlPagesTipsList li:hover{background:#edeff4;border-radius:2px;border-top-color:#edeff4;cursor:pointer;margin:0 0 -1px 0;padding:7px 5px 6px 5px;position:relative;z-index:1}
+.tlPagesTipsList .tipsCloseButton{margin-right:5px}
+.tipsCloseButton .uiCloseButton{opacity:0}
+.tipsCloseButton .openToggler .uiCloseButton, .tlPagesTipsList li:hover .tipsCloseButton .uiCloseButton{opacity:1}
+#AdminTip .adminTipFriendList li{border-bottom:1px solid #f2f2f2;padding:4px 5px 4px 10px;text-decoration:none}
+#AdminTip .adminTipFriendList .name{margin:8px 0}
+#AdminTip .adminTipFriendList .button{margin:2px 0}
+#AdminTip .adminTipFriendList .hideButton{margin:6px 4px}
+#AdminTip .adminTipFriendList li.yellow{background:#fff9d7}
+.profile .app_tab{position:relative;zoom:1;overflow:hidden}
+.pagelet_app_runner_centered{text-align:center}
+.fbTimelineBoxCount{background-color:#e7eaf2;color:#6d84b4;display:inline-block;font-size:24px;font-weight:bold;height:61px;line-height:61px;text-align:center;text-decoration:none;text-indent:-3px;vertical-align:middle;width:61px}
+.fbTimelineBoxHighCountFriends{font-size:19px}
+.fbTimelineBoxSuperHighCountFriends{font-size:16px}
+.fbTimelineBoxSummarizedCountFriends{font-size:13px}
+.fbTimelineOneColumn .fbTimelineBoxCountFriends,
+.fbTimelineOneColumn .fbTimelineBoxHighCountFriends,
+.fbTimelineOneColumn .fbTimelineBoxSuperHighCountFriends,
+.fbTimelineOneColumn .fbTimelineBoxSummarizedCountFriends{width:79px;height:79px;line-height:79px}
+.fbTimelineOneColumn .fbTimelineBoxCountFriends{font-size:28px}
+.fbTimelineOneColumn .fbTimelineBoxHighCountFriends{font-size:24px}
+.fbTimelineOneColumn .fbTimelineBoxSuperHighCountFriends{font-size:22px}
+.fbTimelineOneColumn .fbTimelineBoxSummarizedCountFriends{font-size:20px}
+.fbTimelineBoxCountPosts,
+.fbTimelineBoxHighCountPosts,
+.fbTimelineBoxSuperHighCountPosts,
+.fbTimelineBoxSummarizedCountPosts{width:64px;height:64px;line-height:64px}
+.fbTimelineBoxCountPosts{font-size:30px}
+.fbTimelineBoxHighCountPosts{font-size:26px}
+.fbTimelineBoxSuperHighCountPosts{font-size:20px}
+.fbTimelineBoxSummarizedCountPosts{font-size:14px}
+.fbTimelineBoxCountCheckinlarge,
+.fbTimelineBoxHighCountCheckinlarge,
+.fbTimelineBoxSuperHighCountCheckinlarge,
+.fbTimelineBoxSummarizedCountCheckinlarge{width:70px;height:70px;line-height:70px}
+.fbTimelineBoxCountCheckinlarge{font-size:30px}
+.fbTimelineBoxHighCountCheckinlarge{font-size:28px}
+.fbTimelineBoxSuperHighCountCheckinlarge{font-size:24px}
+.fbTimelineBoxSummarizedCountCheckinlarge{font-size:22px}
+.fbTimelineBoxCountCheckin,
+.fbTimelineBoxHighCountCheckin,
+.fbTimelineBoxSuperHighCountCheckin,
+.fbTimelineBoxSummarizedCountCheckin{width:54px;height:54px;line-height:54px}
+.fbTimelineBoxCountCheckin{font-size:26px}
+.fbTimelineBoxHighCountCheckin{font-size:24px}
+.fbTimelineBoxSuperHighCountCheckin{font-size:22px}
+.fbTimelineBoxSummarizedCountCheckin{font-size:20px}
+.fbTimelineBoxCountPostsdouble,
+.fbTimelineBoxHighCountPostsdouble,
+.fbTimelineBoxSuperHighCountPostsdouble,
+.fbTimelineBoxSummarizedCountPostsdouble{width:85px;height:85px;line-height:85px}
+.fbTimelineBoxCountPostsdouble{font-size:36px}
+.fbTimelineBoxHighCountPostsdouble{font-size:34px}
+.fbTimelineBoxSuperHighCountPostsdouble{font-size:28px}
+.fbTimelineBoxSummarizedCountPostsdouble{font-size:22px}
+.fbTimelineBoxCount:first-letter{font-size:.9em;vertical-align:2px}
+.fbTimelineBoxCountPagefriendsummary,
+.fbTimelineBoxHighCountPagefriendsummary,
+.fbTimelineBoxSuperHighCountPagefriendsummary,
+.fbTimelineBoxSummarizedCountPagefriendsummary{height:37px;line-height:36px;text-indent:0;width:37px}
+.fbTimelineBoxCountPagefriendsummary{font-size:18px}
+.fbTimelineBoxHighCountPagefriendsummary{font-size:16px}
+.fbTimelineBoxSuperHighCountPagefriendsummary{font-size:14px}
+.fbTimelineBoxSummarizedCountPagefriendsummary{font-size:12px}
+.pageFriendSummaryContainer .headerDigit{float:left;font-size:30px;color:#3b5998;margin-right:6px}
+.pageFriendSummaryContainer .headerText{line-height:1.2;padding-top:5px}
+.fbTimelineCapsule div.pageFriendSummaryContainer{padding-top:10px}
+.pageFriendSummaryContainer .header{border-bottom:1px solid #e5e5e5;padding-bottom:2px}
+.fbPageFriendSummaryFacepile .bigPic{height:75px;width:75px}
+.fbPageFriendSummaryFacepile .smallPic{height:37px;width:37px}
+.fbPageFriendSummaryFacepile .pic{display:block;float:left}
+.fbPageFriendSummaryFacepile .innerPic{padding-right:1px}
+.fbPageFriendSummaryFacepile.onlyFacepile{padding-top:3px}
+.fbPageFriendSummarySection.needsBorder{border-bottom:1px solid #e5e5e5;padding-bottom:3px}
+.fbPageFriendSummarySection .friendMusicReport{margin-top:3px}
+.fbPageFriendSummarySection .friendMusicReport .topSongs{border-top:1px solid #e5e5e5}
+.fbPageFriendSummarySection .friendMusicReport .topSongs .topSongsContent{padding:0}
+.timelinePageLikedPagesLabel{border-color:#e9e9e9;border-style:solid;border-width:0 0 1px 0;padding-bottom:8px}
+.pagesTimelineButtonPagelet{background-color:#e7ebf2;border-bottom:1px solid #c8d1e2;min-width:122px;padding:12px 0 5px;top:38px;z-index:4}
+.fbTimelineWideRightCol .pagesTimelineButtonPagelet{min-width:244px}
+body.hasVoiceBar .pagesTimelineButtonPagelet{top:64px}
+.pagesTimelineRightColumn .fbTimelineScrubber{top:72px}
+body.hasVoiceBar .pagesTimelineRightColumn .fbTimelineScrubber{top:98px}
+#createPageButton .img{top:3px}
+#createPageButton{padding-left:11px}
+.fbTimelineFilters{padding-bottom:1px;position:relative;text-align:center}
+.fbTimelineFilters #fbTimelinePagesFilterSelectorButton{border-radius:4px;border:1px solid #c3cce0;background:#e8ecf2 url(https://web.archive.org/web/20120802153546im_/https://s-static.ak.fbcdn.net/rsrc.php/v2/y5/r/ZWvAgFWgfHn.png) no-repeat right 9px;color:#c3cce0;padding-right:19px}
+.fbTimelineFilters .openToggler #fbTimelinePagesFilterSelectorButton{border:1px solid #3b5998;border-bottom:1px solid #777;background:#6d84b4 url(https://web.archive.org/web/20120802153546im_/https://s-static.ak.fbcdn.net/rsrc.php/v2/yn/r/gfx8S-0T_FA.png) no-repeat right 10px;border-bottom-left-radius:0;border-bottom-right-radius:0;padding-right:19px}
+.fbTimelineFilters #fbTimelinePagesFilterSelectorButton .uiButtonText{color:#a1a1c1;font-weight:normal;padding:2px}
+.fbTimelineFilters .openToggler #fbTimelinePagesFilterSelectorButton .uiButtonText{color:#fff;font-weight:normal;padding:2px}
+.fbTimelineFilters .uiSelectorMenuWrapper{text-align:left}
+.sp_3mz0tk{background-image:url(https://web.archive.org/web/20120802153546im_/https://s-static.ak.fbcdn.net/rsrc.php/v2/y4/r/bDpVkPtRitU.png);background-repeat:no-repeat;display:inline-block;height:84px;width:84px}
+.sx_bc8e49{background-position:-0px -73px}
+.sx_7bf9b7{background-position:-0px -158px}
+.sx_34226d{background-position:-0px -243px}
+.sx_8e7d5a{background-position:-0px -328px}
+.sx_276d05{width:100px;height:72px;background-position:-0px -0px}
+.sx_1b7d69{width:10px;height:13px;background-position:-85px -73px}
+.sx_1ed7e3{width:34px;height:34px;background-position:-0px -413px}
+.sp_40totw{background-image:url(https://web.archive.org/web/20120802153546im_/https://s-static.ak.fbcdn.net/rsrc.php/v2/yi/r/38lfDP8Z5cQ.png);background-repeat:no-repeat;display:inline-block;height:72px;width:100px}
+.sx_70fa61{background-position:-0px -0px}
+.sx_8d2670{width:3px;height:3px;background-position:-0px -73px}
+.sp_7he4hj{background-image:url(https://web.archive.org/web/20120802153546im_/https://s-static.ak.fbcdn.net/rsrc.php/v2/yf/r/HtjF24XpoVu.png);background-repeat:no-repeat;display:inline-block;height:13px;width:9px}
+.sx_36c096{width:8px;height:16px;background-position:-24px -33px}
+.sx_f6f949{width:23px;height:32px;background-position:-0px -33px}
+.sx_50f13b{width:32px;height:32px;background-position:-0px -0px}
+.sx_52f05e{height:12px;background-position:-22px -89px}
+.selected .sx_52f05e{background-position:-13px -89px}
+.sx_26b51e{width:12px;height:19px;background-position:-0px -89px}
+.sx_0ac352{width:10px;background-position:-0px -109px}
+.sx_8e6cf0{background-position:-23px -66px}
+.sx_102593{background-position:-11px -109px}
+.sx_77a193{background-position:-21px -109px}
+.sx_285f39{background-position:-0px -123px}
+.sx_86ef17{width:22px;height:22px;background-position:-0px -66px}
+.sp_a890ie{background-image:url(./xTz7_JCUbSr.png);background-repeat:no-repeat;display:inline-block;height:11px;width:12px}
+.sx_51dbb2{width:11px;background-position:-0px -42px}
+.sx_ce38f8{width:8px;height:8px;background-position:-0px -54px}
+.sx_017258{width:16px;height:16px;background-position:-0px -0px}
+.sx_2281a1{background-position:-0px -30px}
+.sx_b57c63{height:12px;background-position:-0px -17px}
+.graphTooltip{background:url(https://web.archive.org/web/20120802153546im_/https://s-static.ak.fbcdn.net/rsrc.php/v2/y1/r/uVR6w3wRHEJ.gif) left bottom no-repeat;bottom:100%;display:block;padding:0 0 4px;position:absolute;z-index:200}
+.graphTooltipText{background-color:#282828;color:#fff !important;display:block;font-size:11px;line-height:14px;padding:4px 8px;text-align:left}
+.insights-graph-header{font-weight:bold;margin-top:10px;margin-bottom:10px}
+.graph-toggles{height:20px}
+.insights-section .graph-toggles.ufb-list_horizontal > li.ufb-list-item{border-width:0 0 0 0}
+.insights-graphs-half-width .graph-canvas{width:360px;height:200px}
+.insights-graphs-full-width{margin-bottom:20px}
+.insights-graphs-full-width .graph-canvas{width:100%;height:250px}
+.insights-users-likes-graph .graph-canvas{width:460px;height:200px}
+.graph-canvas{margin:10px 0}
+.graph-canvas .tickLabel{white-space:nowrap}
+
+#bootloader_42v0y { height: 42px; }
+/*
+     FILE ARCHIVED ON 15:35:46 Aug 02, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:06:11 Jan 02, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 152.044
+  exclusion.robots: 0.061
+  exclusion.robots.policy: 0.056
+  cdx.remote: 0.049
+  esindex: 0.008
+  LoadShardBlock: 95.046 (3)
+  PetaboxLoader3.datanode: 122.85 (4)
+  CDXLines.iter: 16.114 (3)
+  load_resource: 105.361
+  PetaboxLoader3.resolve: 54.929
+*/
